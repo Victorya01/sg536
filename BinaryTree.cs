@@ -13,7 +13,6 @@ namespace ConsoleAp0
         }
         public void Insert(int data)
         {
-
             if (root != null)
             {
                 root.Insert(data);
